@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "numtoString.js",
+  "sourceRoot": "",
+  "sources": [
+    "numtoString.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,CAAA;;AAAA,EAAA,CAAA,GAAI,GAAJ,CAAA;;AAAA,EACA,OAAO,CAAC,GAAR,CAAY,CAAC,CAAC,QAAF,CAAA,CAAZ,CADA,CAAA;AAAA"
+}

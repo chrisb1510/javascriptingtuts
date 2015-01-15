@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "numbers.js",
+  "sourceRoot": "",
+  "sources": [
+    "numbers.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,OAAA;;AAAA,EAAA,OAAA,GAAU,SAAV,CAAA;;AAAA,EACA,OAAO,CAAC,GAAR,CAAY,OAAZ,CADA,CAAA;AAAA"
+}

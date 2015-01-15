@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "variables.js",
+  "sourceRoot": "",
+  "sources": [
+    "variables.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,OAAA;;AAAA,EAAA,OAAA,GAAU,aAAV,CAAA;;AAAA,EACA,OAAO,CAAC,GAAR,CAAY,OAAZ,CADA,CAAA;AAAA"
+}

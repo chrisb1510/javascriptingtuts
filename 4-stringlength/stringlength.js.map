@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "stringlength.js",
+  "sourceRoot": "",
+  "sources": [
+    "stringlength.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA;AAAA"
+}

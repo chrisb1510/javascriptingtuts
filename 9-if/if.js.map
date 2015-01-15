@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "if.js",
+  "sourceRoot": "",
+  "sources": [
+    "if.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,KAAA;;AAAA,EAAA,KAAA,GAAQ,QAAR,CAAA;;AACA,EAAA,IAAG,KAAK,CAAC,MAAN,GAAe,CAAlB;AACE,IAAA,OAAO,CAAC,GAAR,CAAY,+CAAZ,CAAA,CADF;GAAA,MAAA;AAGE,IAAA,OAAO,CAAC,GAAR,CAAY,wDAAZ,CAAA,CAHF;GADA;AAAA"
+}

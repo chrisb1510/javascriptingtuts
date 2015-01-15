@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "objectprops.js",
+  "sourceRoot": "",
+  "sources": [
+    "objectprops.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,IAAA;;AAAA,EAAA,IAAA,GACE;AAAA,IAAA,KAAA,EAAO,YAAP;GADF,CAAA;;AAAA,EAGA,OAAO,CAAC,GAAR,CAAY,IAAI,CAAC,KAAjB,CAHA,CAAA;AAAA"
+}

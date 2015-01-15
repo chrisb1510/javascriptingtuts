@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "rounding.js",
+  "sourceRoot": "",
+  "sources": [
+    "rounding.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,gBAAA;;AAAA,EAAA,OAAA,GAAU,GAAV,CAAA;;AAAA,EACA,OAAA,GAAU,IAAI,CAAC,KAAL,CAAW,OAAX,CADV,CAAA;;AAAA,EAEA,OAAO,CAAC,GAAR,CAAY,OAAZ,CAFA,CAAA;AAAA"
+}

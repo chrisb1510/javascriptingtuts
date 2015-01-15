@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "arrayloop.js",
+  "sourceRoot": "",
+  "sources": [
+    "arrayloop.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,mBAAA;;AAAA,EAAA,IAAA,GAAO,CACL,KADK,EAEL,KAFK,EAGL,KAHK,CAAP,CAAA;;AAMA,OAAA,2CAAA;mBAAA;AACE,IAAA,IAAK,CAAA,EAAA,CAAL,GAAW,IAAK,CAAA,EAAA,CAAL,GAAS,GAApB,CADF;AAAA,GANA;;AAAA,EASA,OAAO,CAAC,GAAR,CAAY,IAAZ,CATA,CAAA;AAAA"
+}

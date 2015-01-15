@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "revisingstrings.js",
+  "sourceRoot": "",
+  "sources": [
+    "revisingstrings.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,KAAA;;AAAA,EAAA,KAAA,GAAQ,kBAAR,CAAA;;AAAA,EACA,OAAO,CAAC,GAAR,CAAY,KAAK,CAAC,OAAN,CAAc,SAAd,EAAwB,WAAxB,CAAZ,CADA,CAAA;AAAA"
+}

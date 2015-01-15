@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "arrays.js",
+  "sourceRoot": "",
+  "sources": [
+    "arrays"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,aAAA;;AAAA,EAAA,aAAA,GAAgB,CACd,cADc,EAEd,QAFc,EAGd,WAHc,CAAhB,CAAA;;AAAA,EAKA,OAAO,CAAC,GAAR,CAAY,aAAZ,CALA,CAAA;AAAA"
+}
